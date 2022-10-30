@@ -1,1 +1,8 @@
-test1
+1. git clone
+2 git branch --set-upstream-to=origin/bracher_test bracher_test
+    git config --global http.proxy
+
+3. git config --global --unset http.proxy
+4.git push
+
+
